@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tiny-vk"
-version = "1.0.4"
+version = "1.0.5"
 description = "Сreating simple vk bots"
 authors = ["QuoNaro <QuoNaro@mail.ru>"]
 readme = "README.md"
